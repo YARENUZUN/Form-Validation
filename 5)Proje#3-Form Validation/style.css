@@ -1,0 +1,11 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+}
+
+.error{
+    border: 1px solid red;
+}
+
+.noerror{
+    border:1px solid green;
+}
